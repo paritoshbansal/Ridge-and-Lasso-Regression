@@ -7,4 +7,4 @@
 To check whether the model is overfitted model or not.
 
 # Conclusion:-
-we are having good accuracy score in both lasso and ridge regression that means our model is not overfitted.
+Their is no changes in accuracy score that means our model is not overfitted.
